@@ -41,7 +41,7 @@ The program has been proven to work with GPU parallelization using CUDA 11.7, th
 ## Video demonstration
 
 Watch Youtube Video:
-[LINK]
+https://youtu.be/2OTh_bMTNs4
 
 ## -------------------------------
 
